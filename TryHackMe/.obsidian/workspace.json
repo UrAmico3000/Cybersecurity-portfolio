@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "fa7a50b624aecedf",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b692d563165a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a347d0b268442a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chill Hack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chill Hack"
+            }
+          }
+        ]
+      },
+      {
+        "id": "df87c5d9d08fc683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be9744a880b911a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfc96e4bc9969e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "21df3eecc0082755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f441dcc6c72c515a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc1756381a34551a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d0f3b01cf6ac960",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4622f0422ea300f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b67f752f4de8ac7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ed2894d310c7aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chill Hack.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chill Hack"
+            }
+          },
+          {
+            "id": "582767c581dcfd09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chill Hack.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chill Hack"
+            }
+          },
+          {
+            "id": "bbeb7a3f83144e66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e9576e75ff269f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chill Hack.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chill Hack"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a347d0b268442a69",
+  "lastOpenFiles": [
+    "Pasted image 20241220212503.png",
+    "Pasted image 20241220212359.png",
+    "Pasted image 20241220212311.png",
+    "Pasted image 20241220211814.png",
+    "Pasted image 20241220203648.png",
+    "Pasted image 20241220203557.png",
+    "Pasted image 20241220203350.png",
+    "Pasted image 20241220203204.png",
+    "Pasted image 20241220202807.png",
+    "Pasted image 20241220202635.png",
+    "Pasted image 20241220202546.png",
+    "Chill Hack.md",
+    "Untitled.md",
+    "create a link.md"
+  ]
+}
